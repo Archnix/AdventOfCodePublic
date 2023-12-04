@@ -1,2 +1,2 @@
 # AdventOfCodePublic
-Sanitized attempts of advent of code.
+Collection of sanitized attempts from advent of code.
